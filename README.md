@@ -12,7 +12,7 @@ To run the code clone the repository
 git clone https://github.com/skaae/torch-gan.git
 ```
 
-`cd` to the `datasets` subfolder and run `create_dataset.py`. This will download an awesome collage of C&H Comics
+`cd` to the `datasets` subfolder and run `./download.sh`. This will download an awesome collage of C&H Comics
 
 Then run
 
