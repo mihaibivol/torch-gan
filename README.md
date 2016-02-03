@@ -2,7 +2,20 @@
 
 Main differences:
 * Reduce feature map size so we can train on a lapotp
-* Add an extra layer for phun
+* Add an extra layer for phun and decrease fully connected parameter count
+
+What are you going to see here:
+
+Examples from training on a crappy laptop
+Examples from training on Amazon with huge RAMs and kewl GPU (Train with bigegr batches more feature maps)
+Model Introspection (hopefully)
+
+with:
+
+* v1) Extra Layer
+* v2) Discriminant with fewer feature maps
+* v3) Base Model
+
 
 
 ## Torch convolutional GAN
