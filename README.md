@@ -12,12 +12,12 @@ To run the code clone the repository
 git clone https://github.com/skaae/torch-gan.git
 ```
 
-`cd` to the `datasets` subfolder and run `./download.sh`. This will download an awesome collage of C&H Comics
+`cd` to the `datasets` subfolder and run `./download.sh`. This will download an awesome collage of C&H Comics. See [this notebook](dataset_explorer) for a sample of the dataset.
 
 Then run
 
 ```
-th train_lfw.lua -g 0 -b 20
+th train.lua -g 0 -b 20
 ```
 
 You can try bigger batches if you haz the RAM for it.
