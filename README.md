@@ -1,4 +1,4 @@
-## Alter models from [skaae/torch-gan](https://github.com/skaae/torch-gan) to generate Cyanide and Happyness Comics
+## Alter models from [skaae/torch-gan](https://github.com/skaae/torch-gan) to generate [Cyanide and Happyness](http://explosm.net/) Comics
 
 Main differences:
 * Reduce feature map size so we can train on a lapotp
